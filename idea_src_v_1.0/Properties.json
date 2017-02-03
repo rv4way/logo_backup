@@ -1,0 +1,17 @@
+{
+	"PositiveGist":"/media/rahul/Personal/database/positive/Gist/",
+	"PositiveHog":"/media/rahul/Personal/database/positive/Hog/",
+	"NegativeHog":"/media/rahul/Personal/database/negative/Hog/",
+	"NegativeGist":"/media/rahul/Personal/database/negative/Gist/",
+	"RetrainNegativeGist":"/media/rahul/Personal/database/negative_selection/Gist/",
+	"RetrainNegativeHog":"/media/rahul/Personal/database/negative_selection/Hog/",
+	"Classifier":"/media/rahul/Personal/database/classifier/",
+	"ClassifierHog":"/media/rahul/Personal/database/classifier/Hog/",
+	"ClassifierGist":"/media/rahul/Personal/database/classifier/Gist/",
+	"Train":"/media/rahul/Personal/database/negative_selection/",
+	"train_tr":"/media/rahul/Personal/database/positive/",
+	"train_fl":"/media/rahul/Personal/database/negative/",
+	"ImageCsv":"/media/rahul/Personal/database/image_name.csv",
+	"MongoUrl":"mongodb://localhost:27017/",
+	"ImageDatabase":"ImageDatabase"
+}

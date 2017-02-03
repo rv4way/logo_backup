@@ -1,0 +1,17 @@
+{
+	"PositiveGist":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Positive/Gist/",
+	"PositiveHog":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Positive/Hog/",
+	"NegativeHog":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Negative/Hog/",
+	"NegativeGist":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Negative/Gist/",
+	"RetrainNegativeGist":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/NegativeSelection/Gist/",
+	"RetrainNegativeHog":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/NegativeSelection/Hog/",
+	"Classifier":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Classifier/",
+	"ClassifierHog":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Classifier/Hog/",
+	"ClassifierGist":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Classifier/Gist/",
+	"Train":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/NegativeSelection/",
+	"train_tr":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Positive/",
+	"train_fl":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/Negative/",
+	"ImageCsv":"/media/rahul/42d36b39-1ad7-45d4-86bb-bf4e0a66a97f/logo aws/DataBase/image_name.csv",
+	"MongoUrl":"mongodb://localhost:27017/",
+	"ImageDatabase":"ImageDatabase"
+}
